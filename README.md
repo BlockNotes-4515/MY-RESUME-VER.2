@@ -32,6 +32,10 @@ Certainly! Below is a sample LinkedIn post that you can use to showcase your res
 Feel free to customize this post with your personal touch and any additional details you'd like to include. Happy networking!
 <br>
 ----------------------------------------------------------------------------------
-<center><img src="Pink Simple Profile Resume.jpg" height="60%" width="60%" border="2" alt="This is My Logo!"></center>
+
+<p align="center">
+  <img src="Pink Simple Profile Resume.jpg" height="60%" width="60%" style="border: 2px solid #000; border-width: thick;" alt="This is My Logo!">
+</p>
+
 ----------------------------------------------------------------------------------
 <br>
