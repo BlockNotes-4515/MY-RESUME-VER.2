@@ -98,8 +98,9 @@ Twitter: https://twitter.com/DhayalDhruv<br>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 <br>
-<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
-<br>
-<img src="https://camo.githubusercontent.com/2e3a321d070ca6eba6b552ae4a80da73054a7c631205e4fe3b19e0a5b7cf5847/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966">
+<p align="center">
+    <img src="https://camo.githubusercontent.com/63b38e7e49d04296e1e37605b328b9c81d00efa010f39c8d2e191062d6797198/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d6d65726b6f26626f726465723d74727565" height="60%" width="60%" border="2" alt="This is My Logo!">
+</p>
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
