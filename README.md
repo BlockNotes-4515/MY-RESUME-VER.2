@@ -1,6 +1,10 @@
 # MY-RESUME-VER.2
 My Resume will define my skill and Experience as well as my projects.
 
+----------------------------------------------------------------------------------
+<center><img src="#" height="60%" width="60%" border="2" alt="This is My Logo!"></center>
+----------------------------------------------------------------------------------
+<br>
 Certainly! Below is a sample LinkedIn post that you can use to showcase your resume ver.2 project:
 
 ---
@@ -22,3 +26,8 @@ Certainly! Below is a sample LinkedIn post that you can use to showcase your res
 ---
 
 Feel free to customize this post with your personal touch and any additional details you'd like to include. Happy networking!
+<br>
+----------------------------------------------------------------------------------
+<center><img src="#" height="60%" width="60%" border="2" alt="This is My Logo!"></center>
+----------------------------------------------------------------------------------
+<br>
