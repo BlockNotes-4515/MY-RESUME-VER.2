@@ -97,3 +97,5 @@ Twitter: https://twitter.com/DhayalDhruv<br>
 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+<br>
+<img src="https://camo.githubusercontent.com/1ae7d7e96d506154008e1b458448cd792dcde754ec2cb6eed47542926b2b1951/68747470733a2f2f6d656d65722d6478396c716f3636372d7472696e69622e76657263656c2e6170702f">
