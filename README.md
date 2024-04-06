@@ -3,7 +3,7 @@ My Resume will define my skill and Experience as well as my projects.
 
 ----------------------------------------------------------------------------------
 <center><a href="https://www.canva.com/design/DAGBoJvfxgA/EvGufdtIQsOmYA1w-hP54A/view?utm_content=DAGBoJvfxgA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
-  <img src="Black Orange Illustrative Esport Gaming Logo.png" height="60%" width="60%" border="2" alt="This is My Logo!"></center>
+  <img src="logo.png" height="60%" width="60%" border="2" alt="This is My Logo!"></center>
 </a>
 ----------------------------------------------------------------------------------
 <br>
