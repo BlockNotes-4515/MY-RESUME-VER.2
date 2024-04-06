@@ -95,7 +95,7 @@ Instagram: https://www.instagram.com/dhayaldhruv271/<br>
 Twitter: https://twitter.com/DhayalDhruv<br>
 ----------------------------------------------------
 
-<center><img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"></center>
+
 
 <center><img src="https://camo.githubusercontent.com/2e3a321d070ca6eba6b552ae4a80da73054a7c631205e4fe3b19e0a5b7cf5847/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966"></center>
 
