@@ -97,6 +97,7 @@ Twitter: https://twitter.com/DhayalDhruv<br>
 <hr>
 <img src="Black Modern Really Great (Poster) (1).png" border="4" alt="Poster of this Projects!">
 <br>
+<img src="Capture.png" alt="Image 1">
 <div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
     <img src="Capture.png" alt="Image 1" style="float: left; width: 35%;">
     <img src="Capture1.png" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
