@@ -94,8 +94,7 @@ Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/<br>
 Instagram: https://www.instagram.com/dhayaldhruv271/<br>
 Twitter: https://twitter.com/DhayalDhruv<br>
 ----------------------------------------------------
-
-
+<hr>
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 <br>
 <p align="center">
