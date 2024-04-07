@@ -21,7 +21,7 @@ Certainly! Below is a sample LinkedIn post that you can use to showcase your res
 
 📝 In this project, I've highlighted all my experiences and strengths in a visually appealing format, complete with emojis and sequential bullet points. From frontend development with HTML, CSS, and JavaScript to backend work with Node.js, this resume reflects my diverse skill set and passion for creating impactful digital solutions.
 
-🔗 Check out the live version of Resume ver.2 here: [Link to your resume]
+🔗 Check out the live version of Resume ver.2 here: https://blocknotes-4515.github.io/MY-RESUME-VER.2/
 
 💼 Are you looking for a web developer who's committed to delivering high-quality projects with creativity and innovation? Let's connect and chat about how I can bring value to your team! 
 
