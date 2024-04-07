@@ -97,25 +97,25 @@ Twitter: https://twitter.com/DhayalDhruv<br>
 <hr>
 <img src="Black Modern Really Great (Poster) (1).png" border="4" alt="Poster of this Projects!">
 <br>
-<img src="Capture.png" alt="Image 1">
+<img src="Capture.PNG" alt="Image 1">
 <div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
-    <img src="Capture.png" alt="Image 1" style="float: left; width: 35%;">
-    <img src="Capture1.png" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
+    <img src="Capture.PNG" alt="Image 1" style="float: left; width: 35%;">
+    <img src="Capture1.PNG" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
 </div>
 <br>
 <div style="overflow: hidden; align:center; background-image: url('images/hexagon.jpg');">
-    <img src="Capture2.png" alt="Image 3" style="float: left; width: 35%;">
-    <img src="Capture3.png" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
+    <img src="Capture2.PNG" alt="Image 3" style="float: left; width: 35%;">
+    <img src="Capture3.PNG" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
 </div>
 <br>
 <div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
-    <img src="Capture4.png" alt="Image 1" style="float: left; width: 35%;">
-    <img src="Capture5.png" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
+    <img src="Capture4.PNG" alt="Image 1" style="float: left; width: 35%;">
+    <img src="Capture5.PNG" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;">
 </div>
 <br>
 <div style="overflow: hidden; align:center; background-image: url('images/hexagon.jpg');">
-    <img src="Capture6.png" alt="Image 3" style="float: left; width: 35%;">
-    <img src="Capture7.png" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
+    <img src="Capture6.PNG" alt="Image 3" style="float: left; width: 35%;">
+    <img src="Capture7.PNG" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;">
 </div>
 <br>
 
