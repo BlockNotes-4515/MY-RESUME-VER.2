@@ -93,6 +93,7 @@ Github: https://github.com/BlockNotes-4515<br>
 Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/<br>
 Instagram: https://www.instagram.com/dhayaldhruv271/<br>
 Twitter: https://twitter.com/DhayalDhruv<br>
+Portfolio-CV: https://drive.google.com/file/d/1Wrgb937NMpFbA7-A1VNRBw9_EK0fgweF/view?usp=sharing<br>
 ----------------------------------------------------
 <hr>
 <img src="Black Modern Really Great (Poster) (1).png" border="4" alt="Poster of this Projects!">
